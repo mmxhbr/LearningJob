@@ -1,0 +1,6 @@
+framework module SULogger {
+  umbrella header "SULogger-umbrella.h"
+
+  export *
+  module * { export * }
+}

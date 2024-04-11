@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-SocketChapter/Pods-SocketChapter-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CocoaAsyncSocket/CocoaAsyncSocket.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/SULogger/SULogger.framework

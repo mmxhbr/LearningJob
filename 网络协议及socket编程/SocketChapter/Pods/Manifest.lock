@@ -1,0 +1,24 @@
+PODS:
+  - CocoaAsyncSocket (7.6.5)
+  - Masonry (1.1.0)
+  - SULogger (1.0)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - Masonry
+  - SULogger
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+    - Masonry
+    - SULogger
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SULogger: 2fc9ffba015e9a22e8309f575400a1922f723d00
+
+PODFILE CHECKSUM: bb2877ea58de95d5e1cf9f98c2fb664893df0657
+
+COCOAPODS: 1.15.2
